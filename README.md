@@ -123,7 +123,7 @@ Suggest actionable steps for model refinement based on observed deficiencies.
 ## Sample Conversation
 
 How to use
-"""
+'''
 Strictly follow your instructions to evaluate the following models. Ensure your responses are heavily detailed: 
 
 <prompt>
@@ -137,7 +137,7 @@ INSERT PROMPT HERE
 <model_2>
 
 </model_2>
-"""
+'''
 
 For a sample conversation demonstrating the evaluation process, please visit [this link](https://chatgpt.com/share/6239c18e-59f0-4c85-a393-1fcb3591df50).
 
