@@ -12,7 +12,7 @@ https://chatgpt.com/g/g-O0K92q1Pf-llm-model-response-evaluator
 
 How to use:
 ```
-Strictly follow your instructions to evaluate the following models. Ensure your responses are heavily detailed: 
+Strictly follow your instructions to evaluate the following models. Ensure your responses are heavily detailed. Summarize at the end with a markdown table with the metrics, percentage, and letter grades, including an overall section: 
 
 <prompt>
 INSERT PROMPT HERE
